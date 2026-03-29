@@ -1,0 +1,14 @@
+{
+    "require": {
+        "symfony/http-client": "^7.3",
+        "nyholm/psr7": "^1.8",
+        "openai-php/client": "0.7.0",
+        "tectalic/openai": "^1.6",
+        "guzzlehttp/guzzle": "^7.10"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
